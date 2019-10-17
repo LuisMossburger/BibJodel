@@ -16,4 +16,4 @@ Außerdem muss bei The Jodel Venture GmbH ein API-Key angefordert, der Kontakt w
 <img src="https://github.com/LuisMossburger/BibJodel/blob/master/jodelBelegung.jpeg" width=300px>
 <img src="https://github.com/LuisMossburger/BibJodel/blob/master/jodelEvents.jpeg" width=300px>
 <br><br><br>
-BibJodel wurde zusammen mit der Universitätsbibliothek Bamberg und The Jodel Venture GmbH aufgebaut.
+BibJodel entstand in Zusammenarbeit mit der Universitätsbibliothek Bamberg und The Jodel Venture GmbH.
