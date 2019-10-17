@@ -10,7 +10,7 @@ Je nach cronjob, werden die Infos von BibJodel ausgelesen und im Channel geposte
 <br><br>
 <b>Voraussetzungen?</b><br>
 BibJodel kann von jeder Bibliothek eingesetzt werden, die Daten zur Lesesaalbelegung erhebt. Voraussetzung sowohl für Belegung, als auch Events ist, dass diese Daten regelmäßig in JSON konvertiert werden, da BibJodel mit diesem Format arbeitet.<br>
-Außerdem muss bei The Jodel Venture GmbH ein API-Key angefordert, der Kontakt wird gerne vermittelt.<br>
+Außerdem muss bei The Jodel Venture GmbH ein API-Key angefordert, der Kontakt wird für Bibliotheken gerne vermittelt.<br>
 Für kleinere Bibliotheken wäre es weniger Aufwand "manuell" über ein Handy zu jodeln - Jodel ist und bleibt absolut anonym, es spielt also keine Rolle, auf welchem Handy sich die App befindet.
 <br><br>
 <b>Einblick</b><br>
