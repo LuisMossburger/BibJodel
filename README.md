@@ -13,7 +13,7 @@ BibJodel kann von jeder Bibliothek eingesetzt werden, die Daten zur Lesesaalbele
 Außerdem muss bei The Jodel Venture GmbH ein API-Key angefordert, der Kontakt wird gerne vermittelt.
 <br><br>
 <b>Einblick</b><br>
-<img src="https://github.com/LuisMossburger/BibJodel/blob/master/jodelBelegung.jpeg" width=300px style="margin-right: 20px;">
+<img src="https://github.com/LuisMossburger/BibJodel/blob/master/jodelBelegung.jpeg" width=300px>&bnsp;&bnsp;&bnsp;&bnsp;&bnsp;&bnsp;&bnsp;&bnsp;
 <img src="https://github.com/LuisMossburger/BibJodel/blob/master/jodelEvents.jpeg" width=300px>
 <br><br><br>
 BibJodel wurde zusammen mit der Universitätsbibliothek Bamberg und The Jodel Venture GmbH aufgebaut.
