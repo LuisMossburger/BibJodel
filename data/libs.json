@@ -1,0 +1,34 @@
+{
+    "lib": {
+        "1": {
+            "traffic": "low",
+            "open": "09:00",
+            "close": "22:00"
+        },
+        "2": {
+            "traffic": "mid",
+            "open": "08:30",
+            "close": "22:00"
+        },
+        "3": {
+            "traffic": "low",
+            "open": "08:30",
+            "close": "23:59"
+        },
+        "4": {
+            "traffic": "high",
+            "open": "08:30",
+            "close": "23:59"
+        },
+        "5": {
+            "traffic": "high",
+            "open": "08:30",
+            "close": "20:00"
+        },
+        "6": {
+            "traffic": "low",
+            "open": "00:00",
+            "close": "23:59"
+        }
+    }
+}

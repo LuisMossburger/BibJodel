@@ -1,0 +1,44 @@
+{
+  "events": {
+      "1": {
+          "title": "Lesenacht",
+          "description": "Lesenacht in der Teilbibliothek 4 für Interessierte ab 18:00 Uhr",
+          "start": "18:00",
+          "end": "24:00",
+          "category": "Teilbibliothek 4",
+          "room": "TB 4 Gruppenraum HM2/01.16"
+      },
+      "2": {
+          "title": "Kunstaustellung",
+          "description": "Kunst in der Teilbibliothek 4",
+          "start": "16:00",
+          "end": "20:00",
+          "category": "Teilbibliothek 4",
+          "room": "TB 4 Lesesaal"
+      },
+      "3": {
+          "title": "Vorlesestunde",
+          "description": "Kunst in der Teilbibliothek 1",
+          "start": "13:00",
+          "end": "14:00",
+          "category": "Teilbibliothek 5",
+          "room": "TB 5 Lesesaal"
+      },
+      "4": {
+          "title": "Aufsätze und mehr - Datenbankrecherche Psychologie",
+          "description": "Jedes Fachgebiet hat seine Besonderheiten - und seine eigenen Informationsressourcen. Wir zeigen Ihnen, wie Sie an aktuelle Forschungsergebnisse gelangen, stellen die wichtigsten Datenbanken Ihres Fachgebietes vor und geben Tipps zu Recherchestrategien.",
+          "start": "12:15",
+          "end": "13:45",
+          "category": "Teilbibliothek 2",
+          "room": "TB 2 Zeitschriftenraum/Schulungsraum M3N/034N"
+      },
+      "5": {
+          "title": "Aufsätze und mehr - Datenbankrecherche Romanistik",
+          "description": "Jedes Fachgebiet hat seine Besonderheiten - und seine eigenen Informationsressourcen. Wir zeigen Ihnen, wie Sie an aktuelle Forschungsergebnisse gelangen, stellen die wichtigsten Datenbanken Ihres Fachgebietes vor und geben Tipps zu Recherchestrategien.",
+          "start": "12:15",
+          "end": "13:45",
+          "category": "Teilbibliothek 3",
+          "room": "TB 3 Zeitschriftenraum/Schulungsraum M3N/034N"
+      }
+  }
+}
