@@ -16,8 +16,8 @@ define("BIB_NAMEN", array("TB1", "TB2", "TB3", "TB4", "TB5", "TB6"));
 define("EVENT_KATS", array("Teilbibliothek 1", "Teilbibliothek 2", "Teilbibliothek 3", "Teilbibliothek 4", "Teilbibliothek 5", "Teilbibliothek 6"));
 
 //DATEN
-define("JSON_FILE", "./data/libs.json"); //Pfad zur JSON-Datei mit den Lesesaaldaten
-define("JSON_FILE_EVENTS", "./data/events.json"); //Pfad zur JSON-Datei mit den Eventdaten
+define("JSON_FILE", "../../data/libs.json"); //Pfad zur JSON-Datei mit den Lesesaaldaten
+define("JSON_FILE_EVENTS", "../../data/events.json"); //Pfad zur JSON-Datei mit den Eventdaten
 
 //JODEL
 define("CHANNEL", "bibstatus_test"); //Hier den Channelnamen der jeweiligen Stadt eintragen

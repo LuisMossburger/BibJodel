@@ -18,8 +18,8 @@ Für kleinere Bibliotheken wäre es weniger Aufwand "manuell" über ein Handy zu
 <br><br>
 
 <b>Einblick</b><br>
-<img src="https://github.com/LuisMossburger/BibJodel/blob/master/jodelBelegung.jpeg" width=300px>
-<img src="https://github.com/LuisMossburger/BibJodel/blob/master/jodelEvents.jpeg" width=300px>
+<img src="https://github.com/LuisMossburger/BibJodel/blob/master/src/img/jodelBelegung.jpeg" width=300px>
+<img src="https://github.com/LuisMossburger/BibJodel/blob/master/src/img/jodelEvents.jpeg" width=300px>
 <br><br><br>
 BibJodel entstand in Zusammenarbeit mit der <a href="https://www.uni-bamberg.de/ub/" target="_blank">Universitätsbibliothek Bamberg</a> und <a href="https://jodel.com/de/imprint/" target="_blank">The Jodel Venture GmbH</a>.
 <br><br><br>

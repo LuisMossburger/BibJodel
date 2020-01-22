@@ -1,7 +1,7 @@
 <?php
 
 //Funktionen laden
-require_once("./functions.php");
+require_once("./utils/functions.php");
 
 
 
