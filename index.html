@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>BibJodel</title>
+  <link rel="stylesheet" href="src/css/style.css" type="text/css">
+  <meta charset="utf-8" lang="de">
+</head>
+
+<body>
+  <nav>
+    <h1><a href="index.html">BibJodel</a><span></span></h1>
+    <ul class="menu">
+      <li id="info">Info</li>
+      <li id="occupancy">Belegung</li>
+      <li id="events">Events</li>
+    </ul>
+  </nav>
+
+  <div class="window">
+    <div id="infoWindow">
+      <h2>BibJodel</h2>
+      <p>ein Tool, um Lesesaalauslastung zu jodeln - besserer Service für Ihre Studierenden!</p>
+    </div>
+
+    <div id="occupancyWindow" style="display: none;">
+      <h2>Wie voll ist der Lesesaal?</h2>
+      <div id="occupancyJSON"></div>
+    </div>
+
+    <div id="eventsWindow" style="display: none;">
+      <h2>Welche Events stehen morgen an?</h2>
+      <div id="eventsJSON"></div>
+    </div>
+  </div>
+
+  <template id="templateOccupancy">
+    <div class="lib">
+      <h3></h3>
+      <input></input><br>
+      <input></input><br>
+      <input></input>
+    </div>
+  </template>
+
+  <template id="templateEvents">
+  </template>
+
+</body>
+<script src="src/js/app.js" type="module"></script>
+</html>

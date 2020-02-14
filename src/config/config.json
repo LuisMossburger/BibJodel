@@ -1,0 +1,30 @@
+{
+  "wording": {
+    "low": "Frei!",
+    "mid": "Mittel!",
+    "high": "Fast voll!"
+  },
+  "texts": {
+    "closed": " wieder für dich da!",
+    "event": "Event"
+  },
+  "rooms": [
+    "TB1", "TB2", "TB3", "TB4", "TB5", "TB6"
+  ],
+  "categories": [
+    "Teilbibliothek 1", "Teilbibliothek 2", "Teilbibliothek 3", "Teilbibliothek 4", "Teilbibliothek 5", "Teilbibliothek 6"
+  ],
+  "data": {
+    "jsonOcc": "../../data/libs.json",
+    "jsonEvents": "../../data/events.json"
+  },
+  "jodel": {
+    "channel": "bibstatus_test",
+    "apiKey": "",
+    "maxLetters": 240
+  },
+  "mails": {
+    "address": "",
+    "subject": "Jodel-Status Error"
+  }
+}
